@@ -1564,7 +1564,7 @@ section.row.competition {
 /* Hover & Active */
 #submit:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 20px rgb(117, 92, 0, 0.4); /* veya rgba(0, 0, 0, 0.5) */
+  box-shadow: 0 6px 20px rgb(10, 10, 10, 0.5); /* veya rgba */
   animation: gradientRight 1.5s forwards; /* sağa kay */
 }
 
